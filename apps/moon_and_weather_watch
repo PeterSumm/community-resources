@@ -18,7 +18,7 @@ This watch face is a derivative work from the Pebble tutorials, and now displays
 	- winds speed and (when applicable) gust, 
 	- bluetooth links status (0 or 1), 
 	- battery status (0-10), 
-	- phase of the moon (0-29 days, 0 is a new moon, 14 a full moon);
+	- phase of the moon (0-29 days, 0 is a new moon, 14 a full moon); and
 	- location of the moon in the sky (0-99 roughly fifteen-minute intervals).
 
 The moon location is accurate to a standard deviation of about five minutes, but the offset will depend on your location and time zone.  In Melbourne, Australia, 0 corresponds to the moon on the opposite side of the earth and 50 to its being directly overhead.  You can use this number to make a rough estimate of tides if you observe a few tide times and work out the offsets of the two high and two low tides that will, in most parts of the world, occur within this period.
